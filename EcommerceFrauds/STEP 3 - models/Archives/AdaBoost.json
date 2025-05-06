@@ -1,0 +1,5 @@
+{
+    "estimator": "DecisionTreeClassifier(max_depth=6)",
+    "learning_rate": "0.3",
+    "n_estimators": "100"
+}

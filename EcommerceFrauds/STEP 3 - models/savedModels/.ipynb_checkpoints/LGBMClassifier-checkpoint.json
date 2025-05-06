@@ -1,0 +1,10 @@
+{
+    "colsample_bytree": 0.8,
+    "is_unbalance": true,
+    "learning_rate": 0.01,
+    "max_depth": 5,
+    "min_split_gain": 0.1,
+    "n_estimators": 100,
+    "reg_lambda": 0,
+    "subsample": 1
+}
